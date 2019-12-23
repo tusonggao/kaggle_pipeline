@@ -1,0 +1,37 @@
+访谈
+https://towardsdatascience.com/from-academia-to-kaggle-how-a-physicist-found-love-in-data-science-d57bdc500d04
+https://towardsdatascience.com/the-data-scientist-who-rules-the-data-science-for-good-competitions-on-kaggle-ab436595a29f
+https://www.kaggle.com/shivamb/1-bulletin-structuring-engine-cola
+https://towardsdatascience.com/from-academia-to-kaggle-how-a-physicist-found-love-in-data-science-d57bdc500d04
+
+
+
+China grandmaster
+https://www.kaggle.com/wuyhbb
+http://www.wuyuanhao.com
+
+
+
+kaggle kernel grandmaster 博客
+http://www.shivambansal.com/
+https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle
+https://www.kaggle.com/shivamb
+
+
+
+Kaggle 偶像,油田工程师转为数据科学家
+kaggle grandmaster Gilberto Titericz
+
+
+
+技巧：
+https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b
+
+
+
+kaggle wining solution
+https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions
+
+
+值得学习的pipeline代码:
+https://github.com/Ynakatsuka/kaggle_utils（包含petfinder的第二名solution)
